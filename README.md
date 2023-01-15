@@ -1,16 +1,4 @@
-# flutter_intesasoft_demo
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+                            FLUTTER INTESA DEMO PROJESİ
+  Bu projede http paketi kullanılarak verilen API'lardan gerekli olan verilerin çekilmesi işlemi yapıldı. 
+  Proje için uygun olan  UI' lar kullanıldı.
+  ![intesa_demo](https://user-images.githubusercontent.com/30980632/212550544-c9791ff2-d778-4abe-bb74-04163aaa7b24.PNG)
